@@ -1,10 +1,9 @@
 * laap
 
-Foo
+A Common Lisp multi-threaded event loop.
 
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.com/ralt/laap.git   |
-| commit  | db51104  |
-| systems | laap |
-|---------+-------------------------------------------|
-
+|---------+--------------------------------------|
+| source  | git:https://gitlab.com/ralt/laap.git |
+| commit  | c36d8f36                             |
+| systems | laap                                 |
+|---------+--------------------------------------|
